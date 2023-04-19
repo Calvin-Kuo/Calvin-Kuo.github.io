@@ -11,7 +11,7 @@ While working full-time, Calvin is a Master of Engineering - M.Eng. in Engineeri
 Learn more about Calvin and how to contact him.
 This website was developed using JavaScript, CSS, and other wonderful tools.
 
-[**Github**](https://github.com/calvin-kuo)
+[**GitHub**](https://github.com/calvin-kuo)
 
 Learn more about Calvin's code and projects.
 
