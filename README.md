@@ -1,6 +1,8 @@
 # Calvin Kuo
-## 🏡 +Welcome! My name is Calvin Kuo.
+## 🏡 Welcome! My name is Calvin Kuo.
  
+<span style="color:green">some *blue* text</span>.
+
 [**Personal Website**](https://calvin-kuo.github.io/calvinkuo/)
 
 Learn more about me, my resume, and how to contact me. This website was developed using JavaScript, CSS, and other wonderful tools.
