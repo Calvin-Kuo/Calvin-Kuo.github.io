@@ -1,7 +1,5 @@
 # Calvin Kuo
-## 🏡 Welcome! My name is Calvin Kuo.
-
- <h2 style="color:green;">Hello World</h2>
+## 🏡 +Welcome! My name is Calvin Kuo.
  
 [**Personal Website**](https://calvin-kuo.github.io/calvinkuo/)
 
