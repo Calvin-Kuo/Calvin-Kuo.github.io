@@ -1,4 +1,4 @@
-# My name is Calvin Kuo
+# Calvin Kuo
 
 ## 🏡 Welcome
 
