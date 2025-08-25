@@ -15,6 +15,8 @@ Learn more about Calvin and how to connect with him. This website was developed 
 
 Learn more about Calvin's code and projects.
 
+<a href="https://www.linkedin.com/in/calvin-y-kuo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 [**LinkedIn**](https://www.linkedin.com/in/calvin-y-kuo/)
 
 Learn more about Calvin's experiences and network.
